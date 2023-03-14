@@ -1,0 +1,8 @@
+name: wdm
+dependencies:
+  - rise
+  - scikit-learn
+  - seaborn
+  - numpy
+  - matplotlib
+  - pandas
