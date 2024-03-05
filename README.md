@@ -2,7 +2,7 @@
 
 Zapoznaj się z zawartością notatnika Jupyter umieszczonego w repozytorium  i wykonaj zawarte w nim ćwiczenia.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IS-UMK/wdm_23_lab_01/blob/master/01_Wprowadzenie.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IS-UMK/REPO/master?filepath=01_Wprowadzenie.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IS-UMK/wdm_24_lab_01/blob/master/01_Wprowadzenie.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IS-UMK/wdm_24_lam_01/master?filepath=01_Wprowadzenie.ipynb)
 
 ---
 
