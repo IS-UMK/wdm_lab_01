@@ -1,8 +1,7 @@
 # WDM. Lab. 1. Wprowadzenie do Python
 
-Zapoznaj się z zawartością notatnika Jupyter umieszczonego w repozytorium  i wykonaj zawarte w nim ćwiczenia.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IS-UMK/wdm_lab_01/blob/master/01_Wprowadzenie.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IS-UMK/wdm_lab_01/master?filepath=01_Wprowadzenie.ipynb)
+* [01_Wprowadzenie.ipynb](01_Wprowadzenie.ipynb) - notatnik z materiałem i ćwiczeniami z laboratorium  
+* [zadanie.ipynb](zadanie.ipynb) - notatnik, w którym powinno znaleźć się rozwiązanie zadania z laboratorium
 
 ---
 
@@ -24,7 +23,9 @@ Dla danych pomiarowych $[x_1, x_2, \ldots, x_n]$ oraz $[y_1, y_2, \ldots, y_n]$ 
 3. Wyznacz wyraz wolny z równania
    $$b = \bar{y} - a\bar{x}$$
 
-Rozwiązanie umieść w notatniku z zajęć. Zapisz notatnik i wyślij  do repozytorium GitHub lub umieść w Moodle pod adresem [https://moodle.umk.pl/mod/assign/view.php?id=291467](https://moodle.umk.pl/mod/assign/view.php?id=291467)
+Do rozwiązania zadania użyj podstawowych funkcji języka Python (instrukcje warunkowe, pętle, funkcje, listy). Nie używaj bibliotek takich jak NumPy, SciPy, Pandas itp.
+
+Rozwiązanie umieść w notatniku [zadanie.ipynb](zadanie.ipynb).  Zapisz notatnik i umieść w repozytorium GitHub.
 
 ---
 ## Materiały:
